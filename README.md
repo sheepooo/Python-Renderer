@@ -1,6 +1,6 @@
 PYTHON渲染器
 ===
-把 skywind3000 前辈的 mini3d 项目（https://github.com/skywind3000/mini3d/releases ）改写成python版，并增加了大量注释（主要是关于实现原理的）。另附一《3D游戏编程大师技巧》，源代码中所需知识都在书里有详细解释。
+把 skywind3000 前辈的 mini3d 项目（https://github.com/skywind3000/mini3d/releases ）改写成python版，并增加了大量注释（主要是关于实现原理的）。源代码中所需知识都在《3D游戏编程大师技巧》里有详细解释。
 
 用python是因为不想搞windows的函数（有现成的窗口库），而且开发简单，可以专注于渲染器本身的功能。但是写完发现python渲染效率极低，所以这个只能用于学习渲染逻辑，不具有实用意义。
 
